@@ -73,3 +73,5 @@ deploy:
   repository: git@github.com:kaisei8/kaisei8.github.io.git
   branch: master
   plugins: -hexo-generator-feed
+
+theme: jekyll-theme-slate
